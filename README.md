@@ -1,7 +1,7 @@
 - 📌 Hi, I'm @Davipzx
 - 👀 I'm interested in learning more and more
 - 🌱 I'm currently learning HTML and CSS
-- 📫 contact me on my Instagram! @pz_davixz
+- 📫 contact me on my Instagram! @dinizkkj_
 
 <!---
 Davipzx/Davipzx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
