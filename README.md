@@ -1,6 +1,6 @@
 - 📌 Hi, I'm Davi Diniz 
 - 👀 I'm interested in learning more and more
-- 🌱 I'm currently learning HTML and CSS
+- 🌱 I'm currently learning HTML, CSS and PYTHON.
 - 📫 contact me on my Instagram! @7davikkj_
 
 <!---
